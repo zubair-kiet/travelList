@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zubair-kiet/travelList/static/css/main.fdc828fe.css",
+    "main.js": "/zubair-kiet/travelList/static/js/main.e954edd2.js",
+    "index.html": "/zubair-kiet/travelList/index.html",
+    "main.fdc828fe.css.map": "/zubair-kiet/travelList/static/css/main.fdc828fe.css.map",
+    "main.e954edd2.js.map": "/zubair-kiet/travelList/static/js/main.e954edd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdc828fe.css",
+    "static/js/main.e954edd2.js"
+  ]
+}
